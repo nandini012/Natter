@@ -7,7 +7,7 @@
     "start":"node server",
     "dev": "nodemon server"
   },
-  "author": "Shashank Taliwal",
+  "author": "Nandini Routh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
